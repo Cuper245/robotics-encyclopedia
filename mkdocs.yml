@@ -1,0 +1,22 @@
+site_name: Robotics Engineering
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: teal
+    accent: teal
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - search.suggest
+extra:
+  social: []
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - admonition
+extra_javascript:
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
