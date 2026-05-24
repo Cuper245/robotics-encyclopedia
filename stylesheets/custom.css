@@ -30,11 +30,11 @@
 
 /* ── Sidebar — narrower ── */
 .md-sidebar {
-  width: 9rem;
+  width: 15rem;
 }
 
 .md-sidebar__scrollwrap {
-  width: 9rem;
+  width: 15rem;
 }
 
 /* ── Content — use the freed-up space ── */
